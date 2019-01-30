@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Product>
+
+
+
+<!-- Page Content -->
+<div class="container h-100 mt-5">
+    <div class="row justify-content-center h-100">
+        <!-- Box Section-->
+        <div class="row">
+            <!-- Div is important for this to work-->
+            @foreach (var p in Model)
+            {
+                <div class="col-md-3">
+                    <div class="border bg-light rounded p-1" style="height: 600px;">
+                        <img src="~/img/@(p.ImageId).jpg" class="img-fluid" alt="@p.Title">
+                        <h3 style="text-align: center; margin-top: 20px;">@p.Category</h3><br />
+                        <ul>
+                            <!-- For demo purposes I have limited the amount of text shown on specific elements.
+                                Finding a CSS way of doing might be more ideal.-->
+                            <li style="list-style: none;">
+                                <b>Title: </b>
+                                @if (p.Title.Length > 20) // 20 is the character line limit.
+                                {
+                                    @p.Title
+                                }
+                                else
+                                {
+                                    @p.Title;
+                                    <br /> <br />
+                                }
+                            </li>
+                            <br />
+                            <li style="list-style: none;">
+                                <b>Description: </b>@p.ProductDescription.Substring(0, 101)...
+                            </li>
+                            <br />
+                            <li style="list-style: none;"><b>Price: </b>£@p.Price</li>
+                        </ul>
+                    </div>
+                    <br /> <br />
+                </div>
+            }
+        </div>
+    </div>
+</div>

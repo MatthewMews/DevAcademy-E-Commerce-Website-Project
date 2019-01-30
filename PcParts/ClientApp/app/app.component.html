@@ -1,0 +1,63 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<!--<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+</div>
+<h2>Here are some links to help you start: </h2>
+<ul>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a></h2>
+  </li>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://angular.io/cli">CLI Documentation</a></h2>
+  </li>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
+  </li>
+</ul>-->
+<br /> <br />
+
+<!-- Page Content -->
+<div class="container h-100 mt-5">
+    <div class="row justify-content-center h-100">
+        <div class="col-2 hidden-md-down mt-2">
+            <h2 class="my-4">PCParts.com</h2>
+            <h5>Filter by:</h5>
+
+            <!-- Filter Section-->
+            <div class="list-group">
+                <a routerLink="/products" class="list-group-item blue-hyperlink">Graphics Cards</a>
+                <a routerLink="/products" class="list-group-item blue-hyperlink">Motherboards</a>
+                <a routerLink="/products" class="list-group-item blue-hyperlink">Monitors</a>
+                <a routerLink="/products" class="list-group-item blue-hyperlink">Keyboards</a>
+            </div>
+        </div>
+        <!-- Box Section-->
+        <div class="col-10 col-sm-10 col-md-10 col-lg-10 col-xl-10 mt-3">
+            <div class="row mt-5 justify-content-center"> <!--*ngFor="let rows of products | updateRows: 6"-->
+                <div class="d-flex"> <!--*ngFor="let prod of rows"-->
+                    <div class="card ml-4 mr-4" style="width: 16rem; background-color: lightgrey;">
+                        <img class="card-img-top" src="" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title">Placeholder</h5>
+                            <h3 class="card-text">Placeholder</h3>
+                            <div class="text-center">
+                                <a routerLink="../product-details" class="btn btn-primary orange-outline mr-1 btn-spacing">View Details</a>
+                                <a routerLink="../shopping-cart" class="btn btn-success btn-height btn-spacing orange-outline">
+                                    <i class="fa fa-shopping-cart product-category-shop-icon"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--<ngb-pagination class="col-md-12 d-flex justify-content-center mt-5" [collectionSize]="24" [(page)]="page"></ngb-pagination>-->
+
+            <!-- Products End-->
+        </div>
+        <!-- Row End -->
+    </div>
+    <!-- Container End -->
+</div>

@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "PcPartsConnectionString": "server=(localdb)\\ProjectsV13;Database=PcPartsDB;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "PcParts": "Information",
+      "Microsoft":  "Warning"
+    }
+  }
+}

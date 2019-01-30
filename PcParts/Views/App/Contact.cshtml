@@ -1,0 +1,42 @@
+﻿@model ContactViewModel
+@{
+    ViewBag.Title = "Contact Us";
+}
+@section Scripts {
+    <script src="~/node_modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/node_modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+}
+
+<div class="container h-100 mt-5">
+    <div class="row justify-content-center h-100">
+        <form method="post">
+            <div class="container">
+                <div asp-validation-summary="ModelOnly"></div> <!-- Displays error message on screen. You can use All for it to display at the top, or ModelOnly to display below the input-->
+                <label asp-for="Name">Your Name:</label>
+                <br />
+                <input asp-for="Name" />
+                <span asp-validation-for="Name"></span> <!-- Display Error-->
+                <br />
+                <label asp-for="Email">Email:</label>
+                <br />
+                <input type="email" asp-for="Email" /> <!-- name is required to retreive the information. Replaced by class-->
+                <span asp-validation-for="Email"></span> <!-- Display Error-->
+                <br />
+                <label asp-for="Subject">Subject:</label>
+                <br />
+                <input type="text" asp-for="Subject" />
+                <span asp-validation-for="Subject"></span> <!-- Display Error-->
+                <br />
+                <label asp-for="Message">Message:</label>
+                <br />
+                <textarea rows="4" asp-for="Message"></textarea>
+                <span asp-validation-for="Message"></span> <!-- Display Error-->
+                <br />
+
+                @*<button class="btn btn-primary submit-button" type="submit">Send Message</button>*@
+                 <input type="submit" value="Send Message" />
+                <div>@ViewBag.UserMessage</div>
+            </div>
+        </form>
+    </div>
+</div>

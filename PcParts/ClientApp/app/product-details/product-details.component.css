@@ -1,0 +1,14 @@
+.cart-button {
+    float: left !important;
+    margin-top: 30px !important;
+    margin-left: 20px !important;
+    margin-bottom: 70px !important;
+}
+
+.img-fluid {
+    margin-bottom: 100px;
+}
+
+.price {
+    display: inline-block;
+}

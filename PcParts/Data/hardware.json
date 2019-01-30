@@ -1,0 +1,242 @@
+[
+    {
+        "Id": 0,
+        "Category": "Graphics Card",
+        "Price": 150.97,
+        "Title": "ASUS Radeon RX 560",
+        "ProductDescription": "ROG Strix RX 560 gaming graphics cards are packed with exclusive ASUS technologies, including Direct CU II Technology with Patented Wing-Blade Fans for up to 30% cooler and 3X quieter performance, and Industry-only Auto-Extreme Technology for premium quality and the best reliability. Aura RGB Lighting enables a gaming system personalization. ROG Strix RX 560 also has GPU Tweak II with XSplit Game caster that provides intuitive performance tweaking and instant gameplay streaming.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Utilizes AMD Polaris architecture;Dual-fan design;IP5X-certified dust resistant patented wing-blade fans;Intuitive GPU Tweak II Interface;Auto-extreme manufacturing technology",
+        "ImageId": "Graphics_Cards/asus-radeon-rx-560"
+    },
+    {
+        "Id": 0,
+        "Category": "Graphics Card",
+        "Price": 798.77,
+        "Title": "EVGA Nvidia GTX 1080TI",
+        "ProductDescription": "The EVGA GeForce GTX 1080 Ti uses NVIDIA's new flagship gaming GPU, based on the NVIDIA Pascal architecture. The latest addition to the ultimate gaming platform, this card is packed with extreme gaming horsepower, next-gen 11 Gbps GDDR5X memory, and a massive 11 GB frame buffer.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Real Base Clock: 1708 MHz / Real Boost Clock: 1847 MHz; Memory Detail: 8192MB GDDR5X;Run Longer, Play Longer with EVGA \"ACX 3.0 Cooling;What you see is what you get! - No additional software required to achieve listed clock speeds;DX12 OSD Support with EVGA Precision XOC. Operating system supported is windows 10 32/64 bit, windows 8 32/64 bit and windows 7 32/64 bit;3 Year Warranty & EVGA's 24/7 Technical Support. All with the lowest latency and plug-and-play compatibility with leading VR headsets.",
+        "ImageId": "Graphics_Cards/evga-gtx1080ti"
+    },
+    {
+        "Id": 0,
+        "Category": "Graphics Card",
+        "Price": 229.98,
+        "Title": "Gigabyte Nvidia GTX 1060",
+        "ProductDescription": "The WINDFORCE 2X cooling system features two 90mm unique blade fans, one pure copper composite heat-pipe, alternate spinning fan design, and heat pipe direct touch technology, together delivering an effective heat dissipation capacity for higher performance at lower temperatures.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Alternate Spinning Fan Design;90mm Unique Blade Fan Design / 3D Active Fan;Protection back plate;One-click Super overclocking;Ultra Durable Components",
+        "ImageId": "Graphics_Cards/gigabyte-gtx1060"
+    },
+    {
+        "Id": 0,
+        "Category": "Graphics Card",
+        "Price": 209.00,
+        "Title": "Gigabyte AMD R9 280",
+        "ProductDescription": "Keeping the same 450W Cooling capacity using only 2 slots, the New WINDFORCE 3X 450W cooling system is equipped with two 8mm and four 6mm cooper heat-pipes , inclined fans, and GIGABYTE \"Triangle Cool\" technology. This not only provides an effective heat dissipation capacity but also enables higher performance due to a lower temperature.",
+        "ProductStock": 10,
+        "KeySellingPoints": "WINDFORCE 3X 450W cooling system;Powered by AMD Radeon R9 290X GPU;Integrated with 4GB GDDR5 memory, 512-bit memory interface;Features DVI-D*2 / HDMI / DisplayPort;Core Clock: 1040 MHz;",
+        "ImageId": "Graphics_Cards/gigabyte-radeon-r9-280"
+    },
+    {
+        "Id": 0,
+        "Category": "Graphics Card",
+        "Price": 170.00,
+        "Title": "MSI Nvidia GTX 960",
+        "ProductDescription": "With every new generation of GPUs comes more performance. With every new generation of MSI Twin Frozr, we give you less noise and heat! We've listened to all your requests and the new Twin Frozr V is smaller, features stronger fans, generates less noise, keeps your graphics card and its components cooler and matches perfectly with your MSI GAMING motherboard including some funky LED lighting. We've spent 18 months on the development of the Twin Frozr V, including field testing in gaming cafés to ensure the cards have the quality and stability to give you the FPS you need!",
+        "ProductStock": 10,
+        "KeySellingPoints": "Dual Fans Thermal Design;Military Class 4 Components;MSI Afterburner;PREPARE FOR VR with MSI",
+        "ImageId": "Graphics_Cards/msi-gtx960"
+    },
+    {
+        "Id": 0,
+        "Category": "Graphics Card",
+        "Price": 278.99,
+        "Title": "MSI Radeon RX 570" ,
+        "ProductDescription": "This 4th Gen Radeon RX graphics card has been designed for gamers and their game of choice, whether that be the latest MOBA or the latest AAA title. The GAMING X GPU from MSI is packed with technologies that’ll help with overall performance, cooling and even style – thanks to the RGB LEDs it features. Asynchronous Shaders and an enhanced Geometry Engine power new levels of smooth gameplay performance.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Chipset: AMD Radeon RX 570;Video Memory: 8GB GDDR5;Output: DisplayPort x 3/HDMI/DL-DVI-;Memory Interface: 256-bit;Bus: PCI-Express x16;450W system power supply requirement. Please refer the User Guide before use",
+        "ImageId": "Graphics_Cards/msi-radeon-rx-570"
+    },
+    {
+        "Id": 0,
+        "Category": "Monitor",
+        "Price": 429.99,
+        "Title": "ASUS ROG Swift PG248Q 24 inch Monitor",
+        "ProductDescription": "Product Description This Full HD LED monitor with 50,000,000:1 high contrast ratio and HDMI interface is optimised for a fine image and colour quality. This approach extends to the sturdy stand and slim profile without compromising style in ensuring stability and durability. It features Smart View technology that can adjust colour parameters to deliver the same image quality and colours with straight viewing.",
+        "ProductStock": 10,
+        "KeySellingPoints": "24-inch full HD gaming monitor with an ultra-fast 1 ms response time to eliminate smearing and motion blur;Astonishing overclock-able 180 Hz refresh rate and G-SYNC technology for super-smooth gameplay;ASUS GamePlus hotkey for in-game enhancements while GameVisual for optimised visuals;Compatible with the NVIDIA(r) 3D vision(r) 2 kit to open you up a world of 3D gaming;VESA wall-mountable to save on desktop space plus ergonomically-designed stands with full tilt, swivel, pivot and height adjustment",
+        "ImageId": "Monitors/24inch-asus-pg248q"
+    },
+    {
+        "Id": 0,
+        "Category": "Monitor",
+        "Price": 199.99,
+        "Title": "ASUS VG248QE 24 inch Monitor",
+        "ProductDescription": "ASUS VG248QE 24 inch 3D LED Monitor (1920 x 1080, 80000000:1, 144 Hz, 1 ms, DVI Display Port, HDMI) - Black.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Highly smooth action with 144 Hz rapid refresh rate and 1 ms (GTG) response time;With an 80,000,000:1 ASUS Smart Contrast Ratio (ASCR) and 350 cd/m square of brightness, it delivers life-like visuals in Full HD 1920 x 1080;A comfortable viewing with ergonomic design for swivel, tilt, pivot and height adjustment;Featuring ASUS GamePlus function hotkey for comfortable gaming environment and experience;Voltage:100-240 and 50/60Hz",
+        "ImageId": "Monitors/24inch-asus-vg248qe"
+    },
+    {
+        "Id": 0,
+        "Category": "Monitor",
+        "Price": 104.99,
+        "Title": "BenQ GW2480 23.8 inch Monitor",
+        "ProductDescription": "Designed for simplicity, BenQ GW2480 23.8 inch frameless monitor combines ultra slim bezels with hidden cable management. Complementing BenQ Eye-Care technology with Low Blue Light technology and flicker-free performance for extended viewing comfort, industry-leading Brightness Intelligence technology delivers exquisite details in any ambient lighting environment. With the ideal combination of LED and IPS technologies, GW2480 delivers a different level of visual enjoyment with truly authentic colours, deeper blacks, higher contrast and sharper details.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Full HD display 1080p;Wide viewing angle IPS panel;Edge to edge slim bezel design;Brightness Intelligence technology;Cable management system",
+        "ImageId": "Monitors/24inch-benq-gw2480"
+    },
+    {
+        "Id": 0,
+        "Category": "Monitor",
+        "Price": 224.00,
+        "Title": "Dell UltraSharp U2414H 23.8 inch Monitor",
+        "ProductDescription": "See your work in its best light on the Dell UltraSharp U2414H. Its upscale design features an amazingly thin (6.05 mm) border around a 23.8\" Full HD display, delivering impeccable images.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Thin bezel - create a multiple screen arrangement with near-continual imagery between multiple monitors via the DisplayPort 1.2 (MST) connectivity port;Convenient connectivity - bring your compatible mobile phones and tablets to life on a large screen with 2 HDMI (MHL) ports;Fast charging - a high-current USB 3.0 supplies twice the power for charging and powering compatible USB devices",
+        "ImageId": "Monitors/24inch-dell-u2414h"
+    },
+    {
+        "Id": 0,
+        "Category": "Monitor",
+        "Price": 253.85,
+        "Title": "ViewSonic XG2401 24 inch Monitor",
+        "ProductDescription": "The ViewSonic XG2401 is the 24 Inch gaming display designed for avid gamers. It features a rapid 144 Hz refresh rate, ultra-fast 1 ms response time and a game mode to naturally and smoothly represent high-speed images and fine details in dark scenes and images. Equipped with 1920 x 1080p resolution, 120M:1 DCR and dual 2W stereo speakers, the XG2401 delivers crisp, high colour performance and crystal-clear sound quality. With integrated dual HDMI inputs, one DisplayPort input and dual USB hub connectivity, gamers have high flexibility when connecting their game consoles, Blu-ray DVD players and other devices to their display. XG2401 is a flicker free monitor with blue light filter eye-care technologies. The XG2401 also features a built-in Eco mode for saving energy. Plus, the XG2401 is fully ergonomic with -5 degrees to 20 degrees tilt, 120 degrees swivel, 90 degrees pivot, 120 mm height adjustment and a 100 x 100 mm VESA-compliant mount for more flexible installation options in any setting.",
+        "ProductStock": 10,
+        "KeySellingPoints": "144Hz refresh rate;Ultra-fast 1ms response time;AMD FreeSync technology;Low input lag for seamless gaming experience;USB 3.0 Hub, Height Adjustable Stand with Cable Management, Headphone Holder and Carry Handle.",
+        "ImageId": "Monitors/24inch-viewsonic-xg2401"
+    },
+    {
+        "Id": 0,
+        "Category": "Monitor",
+        "Price": 190.00,
+        "Title": "Acer K272HL 27 inch Monitor",
+        "ProductDescription": "Acer Monitors give you the beauty you appreciate and the value you need. They showcase captivating widescreen visuals as well as eco-conscious features, making them perfect for enjoying marvelous multimedia at home or in your office, studio or study.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Acer K2 series is ideal for work intensive business environments and everyday PC use;Sharp visuals and a colourful world of full high definition;ComfyView technology and a polariser material eliminate light reflections and ensures colours are bright, crisp and easy on the eye;Adaptive contrast management with an ultra-high contrast ratio of 100 million:1; visual experience second to none;Energy star 6.0 and EPEAT gold certification combined with LED technology delivers high level of detail; reduces power consumption up to 68%",
+        "ImageId": "Monitors/27inch-acer-k272hl"
+    },
+    {
+        "Id": 0,
+        "Category": "Motherboard",
+        "Price": 51.59,
+        "Title": "ASROCK B250M-HDV",
+        "ProductDescription": "Elegant , stylish or short: Simply chic? AS Rock presents its new motherboard. In a symbiosis between design and technology, the mainboard is equipped with high-quality technology. Designed for Intel Core ?? Processors of the sixth and seventh generation will offer you a small performance miracle. A user-friendly UEFI-BIOS is provided for the programming and adjustment, which is easy to use, additional practical features can be purchased in the shop. Experience your gaming moments up close and react before anything happens thanks to HD audio sound ?? Right in the middle there instead of just! To keep your opponent one step ahead, Gigabit Intel LAN provides best performance with low CPU utilization and optimal stability. The mainboard offers you many possibilities for your personal development. Get together with AS Rock on a discovery tour and enjoy flawless technology.",
+        "ProductStock": 10,
+        "KeySellingPoints": "ASROCK B250M-HDV S1151 mATX Intel B250 DDR4;ASRock Super Alloy Supports 7th and 6th Generation Intel Core i7/i5/i3/Pentium/Celeron Processors (Socket 1151)Supports DDR4 2400 (Intel 7th Gen CPUs) / 2133 (Intel 6th Gen CPUs);1 PCIe 3.0 x16, 2 PCIe 3.0 x1Graphics Output Options: HDMI, DVI-D, D-Sub Supports Triple Monitor;7.1 CH HD Audio (Realtek ALC887 Audio Codec), ELNA Audio Caps6 SATA3, 1 Ultra M.2 (PCIe Gen3 x4 & SATA3)6 USB 3.0 (2 Front, 4 Rear)",
+        "ImageId": "Motherboards/asrock-b250m-hdv"
+    },
+    {
+        "Id": 0,
+        "Category": "Motherboard",
+        "Price": 345.98,
+        "Title": "ASUS Intel Z390 ROG MAXIMUS XI Code",
+        "ProductDescription": "Inspired by the rich heritage that has bound the Republic of Gamers to the world of gaming, ROG Maximus XI Code brings together the finest in ROG engineering in understated form that offers all the expansion and personalization opportunities needed to create a distinctive custom rig. With a dedicated onboard clock generator, support for the latest high-performance memory, and cooling options to keep thermals under tight control, Code provides a potent foundation for your next gaming build.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Product for demanding players;Irreproachable manufacturing quality;Exceptional immersion",
+        "ImageId": "Motherboards/asus-maximus-xi"
+    },
+    {
+        "Id": 0,
+        "Category": "Motherboard",
+        "Price": 67.97,
+        "Title": "Gigabyte AB350M-HD3",
+        "ProductDescription": "Supports New Generation AMD Ryzen Processors, Dual Channel Non-ECC Unbuffered DDR4, 4 DIMMs, Fast 2 USB 3.1 Gen 2 with USB Type-A, Ultra-Fast PCIe Gen3 x4 M.2 with PCIe NVMe & SATA mode support High Quality Audio Capacitors and Audio Noise Guard with LED Trace Path Lighting, Realtek Gigabit LAN with cFosSpeed Internet Accelerator Software, Smart Fan, features, Temperature Sensors and Hybrid Fan Headers GIGABYTE UEFI Dual BIOS, APP Center Including EasyTune and Cloud Station Utilities.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Supports AMD Risen & 7th Generation A-series/ Athlon Processors;Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs;Fast 2 USB 3.1 Gen 2 with USB Type-A;2-Way Crossfire Multi-Graphics Support;Ultra-Fast Pie Gen3 x4 M.2 with Pie NV Me & SATA mode support",
+        "ImageId": "Motherboards/gigabyte-ab350m-hd3"
+    },
+    {
+        "Id": 0,
+        "Category": "Motherboard",
+        "Price": 49.88,
+        "Title": "Gigabyte GA-H110M-H",
+        "ProductDescription": "GIGABYTE 100 series motherboards support the latest 6th Generation Intel Core processors, a 14nm desktop CPU which features improved performance, power efficiency and support for DDR4 memory, bringing cutting edge features and ultimate performance to your next PC build.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Supports 7th / 6th Generation Intel Core Processors;Dual Channel DDR4, 2 DIMMs;Audio Noise Guard with High Quality Audio Capacitors;HDMI 1.4, D-sub ports for multiple display;Relate Gbe LAN with crossed Internet Accelerator Software",
+        "ImageId": "Motherboards/gigabyte-h110m-h"
+    },
+    {
+        "Id": 0,
+        "Category": "Motherboard",
+        "Price": 123.30,
+        "Title": "MSI H270-A PRO",
+        "ProductDescription": "Combining quality you can rely on with top performance and clever business solutions are key aspects of the MSI PRO SERIES motherboards. Engineered to gratify even the most demanding professional, these motherboards will fit in any PC. Making your life easier and supporting your business with super stable, reliable and long-lasting top performance.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Supports 7th / 6th Gen Intel Core / Pentium / Celeron processors for LGA 1151 socket;Supports DDR4-2400 Memory;DDR4 Boost: Give your DDR4 memory a performance boost",
+        "ImageId": "Motherboards/msi-270-a-pro"
+    },
+    {
+        "Id": 0,
+        "Category": "Motherboard",
+        "Price": 86.38,
+        "Title": "MSI B350 Gaming Pro",
+        "ProductDescription": "Unlimited customization options and packed with exclusive gaming features, MSI PERFORMANCE GAMING motherboards offer the best possible gaming experience.",
+        "ProductStock": 10,
+        "KeySellingPoints": "DDR4 Boost / VR Ready / Turbo M.2;Audio Boost / GAMING LAN with LAN Protect / Military Class 4, Guard-Pro;Mystic Light Sync;In-Game Weapons",
+        "ImageId": "Motherboards/msi-b350"
+    },
+    {
+        "Id": 0,
+        "Category": "Keyboard",
+        "Price": 154.99,
+        "Title": "Corsair K95 Platinum",
+        "ProductDescription": "The CORSAIR Gaming K95 RGB mechanical gaming keyboard has the performance of the legendary K95, and adds multicolor per-key backlighting for virtually unlimited game customization.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Aircraft-grade anodized brushed aluminium frame;8MB profile storage with hardware macro and lighting playback;Dynamic multicolour per key backlighting with Light Edge;100% CHERRY MX Speed RGB mechanical key switches;6 programmable G-keys keys for in-game macros. HID keyboard report rate: 1000Hz",
+        "ImageId": "Keyboards/corsair-k95"
+    },
+    {
+        "Id": 0,
+        "Category": "Keyboard",
+        "Price": 8.09,
+        "Title": "Logitech K120",
+        "ProductDescription": "The K120 USB keyboard provides a better typing experience that's built to last. Your hands will enjoy the low-profile, whisper-quiet keys and standard layout with full-size F-keys and number pad. The slim keyboard isn’t just sleek - it’s tough with a spill-resistant design, sturdy tilt legs and durable keys. Simply plug it into a USB port on your desktop, laptop or notebook computer and get to work straight away.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Durable: The K120 wired keyboard for business is the budget-friendly USB keyboard that is built for longer use with its durable keys and spillage resistance;Quiet: Enjoy a comfortable, quiet typing experience thanks to the low-profile keys that barely make a sound and a standard layout with full-size F-keys and number pad;With its thin profile, spill-resistant design, durable keys that can withstand up to 10 million keystrokes and sturdy, adjustable tilt legs, this sleek office keyboard looks and feels ideal",
+        "ImageId": "Keyboards/logitech-k120"
+    },
+    {
+        "Id": 0,
+        "Category": "Keyboard",
+        "Price": 109.99,
+        "Title": "Razer Blackwidow Ultimate 2016",
+        "ProductDescription": "The Razer BlackWidow Ultimate features the all-new Razer mechanical switches which were designed from the ground up to elevate the speed and responsiveness of the Razer BlackWidow gaming keyboard beyond the capabilities of previous generation mechanical switches. The individually backlit fully programmable keys allow for dynamic lighting effects that allow gamers to take complete control of the keyboard's lighting system for a personalised gaming experience.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Built around Razer's mechanical switches designed from the ground up for hard-core gaming; the crisp, tactile feel, responsiveness and consistency deliver a unfair gaming advantage;High durability - Razer mechanical switches are rated up to 80 million keystrokes and come with a 2 years warranty;Individually programmable green backlit keys with five dynamic lighting options in Razer green;Fully programmable keys for gaming supremacy; 10 key rollover for high anti-ghosting;Mechanical keyboard with easy access media keys for convenient volume control and media playback",
+        "ImageId": "Keyboards/razer-blackwidow-ultimate"
+    },
+    {
+        "Id": 0,
+        "Category": "Keyboard",
+        "Price": 7.51,
+        "Title": "HP K1500" ,
+        "ProductDescription": "This wired Keyboard from Hewlett Packard is a full size keyboard allowing maximum productivity and accuracy. This keyboard is ideal for use in the home or office environment.",
+        "ProductStock": 10,
+        "KeySellingPoints": "This wired Keyboard from Hewlett Packard is a full size keyboard allowing maximum productivity and accuracy.;This keyboard is ideal for use in the home or office environment.",
+        "ImageId": "Keyboards/hp-k1500"
+    },
+    {
+        "Id": 0,
+        "Category": "Keyboard",
+        "Price": 44.99,
+        "Title": "Logitech G213",
+        "ProductDescription": "Logitech G213 Prodigy Performance-Driven Gaming Keyboard When it comes to gaming, all keyboards are not created equal. G213 is made for the way you play. Play faster than you would using a standard keyboard thanks to performance-tuned keys that bring together the best in tactile feel and gaming-grade performance.",
+        "ProductStock": 10,
+        "KeySellingPoints": "Anti-ghosting;Multicolour backlit keys;Compatible with Windows 10",
+        "ImageId": "Keyboards/logitech-g213"
+    },
+    {
+        "Id": 0,
+        "Category": "Keyboard",
+        "Price": 88.99,
+        "Title": "SteelSeries Apex 150",
+        "ProductDescription": "The SteelSeries Apex 150 gaming keyboard delivers an ultra-fast and quiet key feel with guaranteed 20-million clicks and splash resistance for lifelong durability. With customizable and brilliant five-zone Prism RGB illumination and Game Sense reactive in-game lighting, the Apex 150 lights up your battle station. Fully-programmable keys, combined with advanced anti-ghosting and 24-key rollover deliver fast-paced, accurate gaming.",
+        "ProductStock": 10,
+        "KeySellingPoints": "SteelSeries Apex 150, Gaming Keyboard, 5 Zone RGB Illumination, Splash Resistant, Discord Integration;Guaranteed 20-million click lifespan for lifelong durability;Quick tension switches deliver ultra-fast reaction time, a tactile feel and quiet operation",
+        "ImageId": "Keyboards/steelseries-apex150rgb"
+    }
+]

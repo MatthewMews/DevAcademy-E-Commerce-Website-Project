@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "PcParts";
+}
+
+    <div class="container">
+        <h1 class="display-4" style="text-align: center;">Welcome to @ViewBag.Title</h1>
+
+        <br /> <br />
+
+        <h3 style="text-align: center;"><b>PCParts.com is the number one place for PC hardware and accessories.</b></h3><br />
+
+        <!-- Page Features --> <!-- Image resolutions are 500 x 325-->
+        <div class="row text-center">
+
+            <div class="col-lg-3 col-md-6 mb-4">
+                <div class="card">
+                    <a routerLink="/product-categories"><img class="card-img-top" src="~/img/Homepage_Images/graphics-card-card.jpg" alt="Carousel image a Graphics Card"></a>
+                    <div class="card-body">
+                        <h4 class="card-title graphics-title-spacing">Graphics Cards</h4>
+                        <p class="card-text">Buy the latest and greatest graphics cards from Nvidia and AMD.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a routerLink="/product-categories" class="btn btn-primary orange-outline" onclick="">Graphics Cards</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-4">
+                <div class="card">
+                    <a routerLink="/product-categories"><img class="card-img-top" src="~/img/Homepage_Images/motherboard.png" alt="Carousel image of a Motherboard"></a>
+                    <div class="card-body">
+                        <h4 class="card-title">Motherboards</h4>
+                        <p class="card-text">We have Gigabyte, Asus and MSI motherboards for sale!</p>
+                    </div>
+                    <div class="card-footer">
+                        <a routerLink="/product-categories" class="btn btn-primary orange-outline">Motherboards</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-4">
+                <div class="card">
+                    <a routerLink="/product-categories"><img class="card-img-top" src="~/img/Homepage_Images/monitor.jpg" alt="Carousel image of a Gaming monitor"></a>
+                    <div class="card-body">
+                        <h4 class="card-title monitor-title-spacing">Monitors</h4>
+                        <p class="card-text">Check out the latest monitors for PC gaming and office use.<br /></p>
+                    </div>
+                    <div class="card-footer">
+                        <a routerLink="/product-categories" class="btn btn-primary orange-outline">Monitors</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-4">
+                <div class="card">
+                    <a routerLink="/product-categories"><img class="card-img-top" src="~/img/Homepage_Images/keyboard.jpg" alt="Picture of a RGB Keyboard"></a>
+                    <div class="card-body">
+                        <h4 class="card-title keyboard-title-spacing">Keyboards</h4>
+                        <p class="card-text">
+                            Want to improve your typing speed? <br /> <br />
+                            Check out what keyboards we have in stock today.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a routerLink="/product-categories" class="btn btn-primary orange-outline">Keyboards</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+    </div>
+

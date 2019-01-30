@@ -1,0 +1,120 @@
+﻿/* You can add global styles to this file, and also import other style files */
+.navbar-white {
+    background-color: rgb(23, 49, 125);
+    color: white;
+}
+
+a:hover {
+    color: orange !important;
+}
+
+a:focus {
+    color: yellow !important;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-item {
+    font-size: 18px;
+}
+
+.bg-blue {
+    background-color: rgb(23, 49, 125) !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url(https://i.imgur.com/px9lcB2.png);
+}
+
+p {
+    font-family: Trebuchet MS, Roboto, Verdana, sans-serif;
+}
+
+.btn-color-blue {
+    background-color: rgb(41, 69, 152) !important;
+    border-color: orange !important;
+    float: right;
+    margin-left: 10px;
+}
+
+.btn-primary {
+    background-color: rgb(23, 49, 125) !important;
+    font-weight: bold;
+    color: white !important;
+}
+
+.input-group {
+    float: right;
+    width: 250px;
+    margin-right: 10px;
+}
+
+a .fa {
+    font-size: 2em;
+}
+
+.shop-cart-icon {
+    margin-left: 15px;
+    margin-right: 20px;
+    outline-color: none !important;
+    color: white;
+}
+
+a:hover .homepage-shop-cart {
+    color: orange;
+    background-color: rgb(23, 49, 125);
+    text-decoration-color: none;
+    outline: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url(https://github.com/MatthewMews/original-website-files/blob/master/Homepage/Homepage_Images/navbar-toggler-icon.png?raw=true) !important;
+}
+
+footer {
+    margin-top: 50px !important;
+}
+
+
+/*App Component Start*/
+@media (max-width: 767px) {
+    /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+    .body-content {
+        padding-top: 50px;
+    }
+}
+
+.monitor-footer-text-spacing {
+    margin-top: 24px;
+}
+
+.motherboard-footer-text-spacing {
+    margin-top: 24px;
+}
+
+.orange-outline {
+    border: 2px solid orange;
+}
+
+.graphics-title-spacing {
+    margin-top: 106px;
+}
+
+.monitor-title-spacing {
+    margin-top: 6px;
+}
+
+.keyboard-title-spacing {
+    margin-top: 98px;
+}
+
+.navbar-spacing {
+    margin-bottom: 50px !important;
+    position: relative !important;
+}

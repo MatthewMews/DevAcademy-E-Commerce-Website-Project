@@ -1,0 +1,39 @@
+.container {
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 300px;
+}
+
+.email-address-field {
+    margin-top: 100px;
+}
+
+.email-spacing {
+    margin-right: 50px;
+}
+
+.password-spacing {
+    margin-right: 82px;
+}
+
+.remember-me {
+    display: inline-block;
+    margin-right: 70px;
+}
+
+.textbox {
+    height: 30px;
+    width: 350px;
+}
+
+.submit-button {
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 120px;
+}
